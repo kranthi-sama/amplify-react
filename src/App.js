@@ -17,7 +17,7 @@ function App() {
         >
           Hey Man Welcome to Amplify...
         </a>
-		<Yo Yo Man.. You did it.. Great Job..>
+		<h1>Yo Yo Man.. You did it.. Great Job..</h1>
       </header>
     </div>
   );
